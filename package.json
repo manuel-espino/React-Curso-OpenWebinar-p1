@@ -1,7 +1,6 @@
 {
   "name": "curso-react-babel",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "babel index.js -d dist",
@@ -13,5 +12,14 @@
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-preset-latest": "^6.24.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuel-espino/React-Curso-OpenWebinar-p1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manuel-espino/React-Curso-OpenWebinar-p1/issues"
+  },
+  "homepage": "https://github.com/manuel-espino/React-Curso-OpenWebinar-p1#readme",
+  "description": ""
 }
